@@ -1,1 +1,1 @@
-# K-mEAns-Elbow-Method-in-R
+# K-means-Elbow-Method-in-R
